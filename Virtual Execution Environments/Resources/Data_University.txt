@@ -1,0 +1,37 @@
+
+{
+Type: University
+Name: ISEL-TXT
+Year: 1852
+Address: R. Conselheiro Emídio Navarro 1, 1959-007 Lisboa
+}
+
+{
+Type: University
+Name: IST-TXT
+Year: 1937
+Address: Av. Rovisco Pais 1, 1049-001 Lisboa
+}
+
+{
+Type: Department
+Name: ADEETC-TXT
+NumberOfCourses: 4
+University: ISEL-TXT
+}
+
+{
+Type: Course
+Name: LEIC-TXT
+Department: ADEETC-TXT
+Coordinator: Artur Ferreira
+}
+
+{
+Type: Class   
+Name: Ambientes Virtuais de Execução-TXT
+Acronym: AVE-TXT
+Optional: FALSE
+ECTS: 6
+}
+

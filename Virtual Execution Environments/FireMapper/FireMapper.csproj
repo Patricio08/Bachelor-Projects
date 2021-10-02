@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <None Remove="ave-41d-g31-firebase-adminsdk-x8nee-ef8eb0d240.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FireSource\FireSource.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Cloud.Firestore" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ave-41d-g31-firebase-adminsdk-x8nee-ef8eb0d240.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
