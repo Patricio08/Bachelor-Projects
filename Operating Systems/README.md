@@ -11,6 +11,8 @@ In this course it was studied:
 
 **Colaborators**
 
-Tiago Fernandes - https://github.com/TiagoFernandes2
+Daniel Patrício
 
-TIago Pereira - https://github.com/TiagoPereira06
+[Tiago Fernandes](https://github.com/TiagoFernandes2)
+
+[Tiago Pereira](https://github.com/TiagoPereira06)
