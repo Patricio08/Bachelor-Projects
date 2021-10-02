@@ -1,0 +1,6 @@
+.box-shadow {
+    padding: 10px 20px 20px 20px;
+	background: #F8F8F8; 
+	border: solid #BDBDBD 1px; 
+	box-shadow: 4px 5px 20px rgba(0, 0, 0, 0.3); 
+}
